@@ -1,0 +1,7 @@
+{
+  "name": "unfluff-layer",
+  "version": "0.1.0",
+  "dependencies": {
+    "unfluff": "^3.2.0"
+  }
+}
